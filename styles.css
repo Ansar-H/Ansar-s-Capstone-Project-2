@@ -1,0 +1,41 @@
+.top-container {
+    background-color: aquamarine;
+}
+
+.subtitle-font {
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .spline-sans-mono-font {
+    font-family: "Spline Sans Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+
+  .dot-divider {
+    text-align: center; /* Center the dots */
+    padding: 10px 0;
+    margin: 50px; /* Add some padding */
+  }
+  
+  .dot {
+    height: 5px;
+    width: 5px;
+    background-color: grey;
+    opacity: 40%; /* Or any color you prefer */
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0 1px; /* Adjust space between the dots */
+  }
+
+  .jaldi-regular {
+    font-family: "Jaldi", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  
+  
